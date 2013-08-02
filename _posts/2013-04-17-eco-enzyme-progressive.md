@@ -1,9 +1,13 @@
 ---
 layout: post
 title: 漸進式環保酵素
-category : eco
-tags : [enzyme, eco]
+category: eco
+tags: 
+  - enzyme
+  - eco
+published: true
 ---
+
 {% include JB/setup %}
 
 參與人員：超人
@@ -34,10 +38,15 @@ tags : [enzyme, eco]
 
 加入 500 g 紅糖，以及 2 kg 生水。
 
-## 2013-06-05
+## 2013-06-05 更新
 
 其實在 2013-05-27 果渣就已經沉下去，這張是補拍的照片。
 ![Alt](/img/eco/2013-04-17/IMG_20130605_133848.jpg)
+
+## 2013-07-28 更新
+
+這桶滿了，準備換新桶。依照環保酵素的原則，先放置三個月。
+![Alt](/img/eco/2013-04-17/IMG_20130728_133740.jpg)
 
 ## 討論
 
@@ -45,4 +54,3 @@ tags : [enzyme, eco]
 
 
 未完待續...
-
