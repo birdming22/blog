@@ -1,9 +1,13 @@
 ---
 layout: post
 title: 環保酵素第二回合
-category : eco
-tags : [enzyme, eco]
+category: eco
+tags: 
+  - enzyme
+  - eco
+published: true
 ---
+
 {% include JB/setup %}
 
 參與人員：超人
@@ -75,6 +79,11 @@ tags : [enzyme, eco]
 因為要再做一桶環保酵素，所以空出原位，將桶子移到戶外。
 ![Alt](/img/eco/2012-12-02/IMG_20130120_142846.jpg)
 
+## 2013-12-08 更新
+
+因為葡萄阿罵要用酵素，所以拿了 8 L 給他試用。打開之後，味道很香。
+![Alt](/img/eco/2012-12-02/IMG_20131208_143230.jpg)
+
 ## 討論
 
 * 糖要先溶解，不然一大桶很難攪拌均勻。
@@ -82,4 +91,3 @@ tags : [enzyme, eco]
 * 一時忘記又加入杏仁這個有油脂的材料。
 
 未完待續...
-
