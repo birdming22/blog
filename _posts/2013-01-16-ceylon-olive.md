@@ -1,9 +1,13 @@
 ---
 layout: post
 title: 橄欖酵素
-category : make
-tags : [enzyme, make]
+category: make
+tags: 
+  - enzyme
+  - make
+published: true
 ---
+
 {% include JB/setup %}
 
 參與人員：超人
@@ -211,6 +215,11 @@ tags : [enzyme, make]
 加入檸檬之後，整個變苦。曾試過打開攪拌，但是並沒有重新發酵的跡象，裡面還是很多未溶解的紅糖。
 ![Alt](/img/make/2013-01-16/IMG_20130502_131342.jpg)
 
+## 2014-01-26 更新
+
+黑糖缸出現白色的不明物體，雖然整缸聞起來還是很香，不過趁過年前把他作成環保酵素了。
+![Alt](/img/make/2013-01-16/IMG_20140126_142130.jpg)
+
 ## 討論
 
 * 黑糖發酵果然比較快
@@ -219,4 +228,3 @@ tags : [enzyme, make]
 * 有空要買一個 50 kg 以上的磅秤
 
 未完待續...
-
